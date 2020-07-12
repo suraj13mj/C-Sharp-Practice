@@ -1,0 +1,13 @@
+C:\Users\Geralt\source\repos\Program3 - Datatypes 1\Program3 - Datatypes 1\obj\Debug\netcoreapp3.1\Program3 - Datatypes 1.csprojAssemblyReference.cache
+C:\Users\Geralt\source\repos\Program3 - Datatypes 1\Program3 - Datatypes 1\obj\Debug\netcoreapp3.1\Program3 - Datatypes 1.AssemblyInfoInputs.cache
+C:\Users\Geralt\source\repos\Program3 - Datatypes 1\Program3 - Datatypes 1\obj\Debug\netcoreapp3.1\Program3 - Datatypes 1.AssemblyInfo.cs
+C:\Users\Geralt\source\repos\Program3 - Datatypes 1\Program3 - Datatypes 1\obj\Debug\netcoreapp3.1\Program3 - Datatypes 1.csproj.CoreCompileInputs.cache
+C:\Users\Geralt\source\repos\Program3 - Datatypes 1\Program3 - Datatypes 1\bin\Debug\netcoreapp3.1\Program3 - Datatypes 1.exe
+C:\Users\Geralt\source\repos\Program3 - Datatypes 1\Program3 - Datatypes 1\bin\Debug\netcoreapp3.1\Program3 - Datatypes 1.deps.json
+C:\Users\Geralt\source\repos\Program3 - Datatypes 1\Program3 - Datatypes 1\bin\Debug\netcoreapp3.1\Program3 - Datatypes 1.runtimeconfig.json
+C:\Users\Geralt\source\repos\Program3 - Datatypes 1\Program3 - Datatypes 1\bin\Debug\netcoreapp3.1\Program3 - Datatypes 1.runtimeconfig.dev.json
+C:\Users\Geralt\source\repos\Program3 - Datatypes 1\Program3 - Datatypes 1\bin\Debug\netcoreapp3.1\Program3 - Datatypes 1.dll
+C:\Users\Geralt\source\repos\Program3 - Datatypes 1\Program3 - Datatypes 1\bin\Debug\netcoreapp3.1\Program3 - Datatypes 1.pdb
+C:\Users\Geralt\source\repos\Program3 - Datatypes 1\Program3 - Datatypes 1\obj\Debug\netcoreapp3.1\Program3 - Datatypes 1.dll
+C:\Users\Geralt\source\repos\Program3 - Datatypes 1\Program3 - Datatypes 1\obj\Debug\netcoreapp3.1\Program3 - Datatypes 1.pdb
+C:\Users\Geralt\source\repos\Program3 - Datatypes 1\Program3 - Datatypes 1\obj\Debug\netcoreapp3.1\Program3 - Datatypes 1.genruntimeconfig.cache

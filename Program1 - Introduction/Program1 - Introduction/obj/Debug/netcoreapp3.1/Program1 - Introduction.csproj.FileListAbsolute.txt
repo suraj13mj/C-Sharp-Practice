@@ -1,0 +1,13 @@
+C:\Users\Geralt\source\repos\Program1 - Introduction\Program1 - Introduction\bin\Debug\netcoreapp3.1\Program1 - Introduction.exe
+C:\Users\Geralt\source\repos\Program1 - Introduction\Program1 - Introduction\bin\Debug\netcoreapp3.1\Program1 - Introduction.deps.json
+C:\Users\Geralt\source\repos\Program1 - Introduction\Program1 - Introduction\bin\Debug\netcoreapp3.1\Program1 - Introduction.runtimeconfig.json
+C:\Users\Geralt\source\repos\Program1 - Introduction\Program1 - Introduction\bin\Debug\netcoreapp3.1\Program1 - Introduction.runtimeconfig.dev.json
+C:\Users\Geralt\source\repos\Program1 - Introduction\Program1 - Introduction\bin\Debug\netcoreapp3.1\Program1 - Introduction.dll
+C:\Users\Geralt\source\repos\Program1 - Introduction\Program1 - Introduction\bin\Debug\netcoreapp3.1\Program1 - Introduction.pdb
+C:\Users\Geralt\source\repos\Program1 - Introduction\Program1 - Introduction\obj\Debug\netcoreapp3.1\Program1 - Introduction.csprojAssemblyReference.cache
+C:\Users\Geralt\source\repos\Program1 - Introduction\Program1 - Introduction\obj\Debug\netcoreapp3.1\Program1 - Introduction.AssemblyInfoInputs.cache
+C:\Users\Geralt\source\repos\Program1 - Introduction\Program1 - Introduction\obj\Debug\netcoreapp3.1\Program1 - Introduction.AssemblyInfo.cs
+C:\Users\Geralt\source\repos\Program1 - Introduction\Program1 - Introduction\obj\Debug\netcoreapp3.1\Program1 - Introduction.csproj.CoreCompileInputs.cache
+C:\Users\Geralt\source\repos\Program1 - Introduction\Program1 - Introduction\obj\Debug\netcoreapp3.1\Program1 - Introduction.dll
+C:\Users\Geralt\source\repos\Program1 - Introduction\Program1 - Introduction\obj\Debug\netcoreapp3.1\Program1 - Introduction.pdb
+C:\Users\Geralt\source\repos\Program1 - Introduction\Program1 - Introduction\obj\Debug\netcoreapp3.1\Program1 - Introduction.genruntimeconfig.cache

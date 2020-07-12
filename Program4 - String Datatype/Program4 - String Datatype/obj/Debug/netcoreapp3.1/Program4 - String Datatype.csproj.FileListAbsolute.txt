@@ -1,0 +1,13 @@
+C:\Users\Geralt\source\repos\Program4 - String Datatype\Program4 - String Datatype\bin\Debug\netcoreapp3.1\Program4 - String Datatype.exe
+C:\Users\Geralt\source\repos\Program4 - String Datatype\Program4 - String Datatype\bin\Debug\netcoreapp3.1\Program4 - String Datatype.deps.json
+C:\Users\Geralt\source\repos\Program4 - String Datatype\Program4 - String Datatype\bin\Debug\netcoreapp3.1\Program4 - String Datatype.runtimeconfig.json
+C:\Users\Geralt\source\repos\Program4 - String Datatype\Program4 - String Datatype\bin\Debug\netcoreapp3.1\Program4 - String Datatype.runtimeconfig.dev.json
+C:\Users\Geralt\source\repos\Program4 - String Datatype\Program4 - String Datatype\bin\Debug\netcoreapp3.1\Program4 - String Datatype.dll
+C:\Users\Geralt\source\repos\Program4 - String Datatype\Program4 - String Datatype\bin\Debug\netcoreapp3.1\Program4 - String Datatype.pdb
+C:\Users\Geralt\source\repos\Program4 - String Datatype\Program4 - String Datatype\obj\Debug\netcoreapp3.1\Program4 - String Datatype.csprojAssemblyReference.cache
+C:\Users\Geralt\source\repos\Program4 - String Datatype\Program4 - String Datatype\obj\Debug\netcoreapp3.1\Program4 - String Datatype.AssemblyInfoInputs.cache
+C:\Users\Geralt\source\repos\Program4 - String Datatype\Program4 - String Datatype\obj\Debug\netcoreapp3.1\Program4 - String Datatype.AssemblyInfo.cs
+C:\Users\Geralt\source\repos\Program4 - String Datatype\Program4 - String Datatype\obj\Debug\netcoreapp3.1\Program4 - String Datatype.csproj.CoreCompileInputs.cache
+C:\Users\Geralt\source\repos\Program4 - String Datatype\Program4 - String Datatype\obj\Debug\netcoreapp3.1\Program4 - String Datatype.dll
+C:\Users\Geralt\source\repos\Program4 - String Datatype\Program4 - String Datatype\obj\Debug\netcoreapp3.1\Program4 - String Datatype.pdb
+C:\Users\Geralt\source\repos\Program4 - String Datatype\Program4 - String Datatype\obj\Debug\netcoreapp3.1\Program4 - String Datatype.genruntimeconfig.cache

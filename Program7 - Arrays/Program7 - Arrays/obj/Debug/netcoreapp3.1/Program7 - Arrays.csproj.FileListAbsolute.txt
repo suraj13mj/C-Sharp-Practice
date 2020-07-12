@@ -1,0 +1,12 @@
+C:\Users\Geralt\source\repos\Program7 - Arrays\Program7 - Arrays\bin\Debug\netcoreapp3.1\Program7 - Arrays.exe
+C:\Users\Geralt\source\repos\Program7 - Arrays\Program7 - Arrays\bin\Debug\netcoreapp3.1\Program7 - Arrays.deps.json
+C:\Users\Geralt\source\repos\Program7 - Arrays\Program7 - Arrays\bin\Debug\netcoreapp3.1\Program7 - Arrays.runtimeconfig.json
+C:\Users\Geralt\source\repos\Program7 - Arrays\Program7 - Arrays\bin\Debug\netcoreapp3.1\Program7 - Arrays.runtimeconfig.dev.json
+C:\Users\Geralt\source\repos\Program7 - Arrays\Program7 - Arrays\bin\Debug\netcoreapp3.1\Program7 - Arrays.dll
+C:\Users\Geralt\source\repos\Program7 - Arrays\Program7 - Arrays\bin\Debug\netcoreapp3.1\Program7 - Arrays.pdb
+C:\Users\Geralt\source\repos\Program7 - Arrays\Program7 - Arrays\obj\Debug\netcoreapp3.1\Program7 - Arrays.AssemblyInfoInputs.cache
+C:\Users\Geralt\source\repos\Program7 - Arrays\Program7 - Arrays\obj\Debug\netcoreapp3.1\Program7 - Arrays.AssemblyInfo.cs
+C:\Users\Geralt\source\repos\Program7 - Arrays\Program7 - Arrays\obj\Debug\netcoreapp3.1\Program7 - Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Geralt\source\repos\Program7 - Arrays\Program7 - Arrays\obj\Debug\netcoreapp3.1\Program7 - Arrays.dll
+C:\Users\Geralt\source\repos\Program7 - Arrays\Program7 - Arrays\obj\Debug\netcoreapp3.1\Program7 - Arrays.pdb
+C:\Users\Geralt\source\repos\Program7 - Arrays\Program7 - Arrays\obj\Debug\netcoreapp3.1\Program7 - Arrays.genruntimeconfig.cache

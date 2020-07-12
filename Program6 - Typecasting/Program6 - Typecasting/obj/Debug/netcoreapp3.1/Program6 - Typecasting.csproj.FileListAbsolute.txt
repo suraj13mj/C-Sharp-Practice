@@ -1,0 +1,13 @@
+C:\Users\Geralt\source\repos\Program6 - Typecasting\Program6 - Typecasting\bin\Debug\netcoreapp3.1\Program6 - Typecasting.exe
+C:\Users\Geralt\source\repos\Program6 - Typecasting\Program6 - Typecasting\bin\Debug\netcoreapp3.1\Program6 - Typecasting.deps.json
+C:\Users\Geralt\source\repos\Program6 - Typecasting\Program6 - Typecasting\bin\Debug\netcoreapp3.1\Program6 - Typecasting.runtimeconfig.json
+C:\Users\Geralt\source\repos\Program6 - Typecasting\Program6 - Typecasting\bin\Debug\netcoreapp3.1\Program6 - Typecasting.runtimeconfig.dev.json
+C:\Users\Geralt\source\repos\Program6 - Typecasting\Program6 - Typecasting\bin\Debug\netcoreapp3.1\Program6 - Typecasting.dll
+C:\Users\Geralt\source\repos\Program6 - Typecasting\Program6 - Typecasting\bin\Debug\netcoreapp3.1\Program6 - Typecasting.pdb
+C:\Users\Geralt\source\repos\Program6 - Typecasting\Program6 - Typecasting\obj\Debug\netcoreapp3.1\Program6 - Typecasting.csprojAssemblyReference.cache
+C:\Users\Geralt\source\repos\Program6 - Typecasting\Program6 - Typecasting\obj\Debug\netcoreapp3.1\Program6 - Typecasting.AssemblyInfoInputs.cache
+C:\Users\Geralt\source\repos\Program6 - Typecasting\Program6 - Typecasting\obj\Debug\netcoreapp3.1\Program6 - Typecasting.AssemblyInfo.cs
+C:\Users\Geralt\source\repos\Program6 - Typecasting\Program6 - Typecasting\obj\Debug\netcoreapp3.1\Program6 - Typecasting.csproj.CoreCompileInputs.cache
+C:\Users\Geralt\source\repos\Program6 - Typecasting\Program6 - Typecasting\obj\Debug\netcoreapp3.1\Program6 - Typecasting.dll
+C:\Users\Geralt\source\repos\Program6 - Typecasting\Program6 - Typecasting\obj\Debug\netcoreapp3.1\Program6 - Typecasting.pdb
+C:\Users\Geralt\source\repos\Program6 - Typecasting\Program6 - Typecasting\obj\Debug\netcoreapp3.1\Program6 - Typecasting.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Geralt\source\repos\Program5 - Nullable Operators\Program5 - Nullable Operators\bin\Debug\netcoreapp3.1\Program5 - Nullable Operators.exe
+C:\Users\Geralt\source\repos\Program5 - Nullable Operators\Program5 - Nullable Operators\bin\Debug\netcoreapp3.1\Program5 - Nullable Operators.deps.json
+C:\Users\Geralt\source\repos\Program5 - Nullable Operators\Program5 - Nullable Operators\bin\Debug\netcoreapp3.1\Program5 - Nullable Operators.runtimeconfig.json
+C:\Users\Geralt\source\repos\Program5 - Nullable Operators\Program5 - Nullable Operators\bin\Debug\netcoreapp3.1\Program5 - Nullable Operators.runtimeconfig.dev.json
+C:\Users\Geralt\source\repos\Program5 - Nullable Operators\Program5 - Nullable Operators\bin\Debug\netcoreapp3.1\Program5 - Nullable Operators.dll
+C:\Users\Geralt\source\repos\Program5 - Nullable Operators\Program5 - Nullable Operators\bin\Debug\netcoreapp3.1\Program5 - Nullable Operators.pdb
+C:\Users\Geralt\source\repos\Program5 - Nullable Operators\Program5 - Nullable Operators\obj\Debug\netcoreapp3.1\Program5 - Nullable Operators.csprojAssemblyReference.cache
+C:\Users\Geralt\source\repos\Program5 - Nullable Operators\Program5 - Nullable Operators\obj\Debug\netcoreapp3.1\Program5 - Nullable Operators.AssemblyInfoInputs.cache
+C:\Users\Geralt\source\repos\Program5 - Nullable Operators\Program5 - Nullable Operators\obj\Debug\netcoreapp3.1\Program5 - Nullable Operators.AssemblyInfo.cs
+C:\Users\Geralt\source\repos\Program5 - Nullable Operators\Program5 - Nullable Operators\obj\Debug\netcoreapp3.1\Program5 - Nullable Operators.csproj.CoreCompileInputs.cache
+C:\Users\Geralt\source\repos\Program5 - Nullable Operators\Program5 - Nullable Operators\obj\Debug\netcoreapp3.1\Program5 - Nullable Operators.dll
+C:\Users\Geralt\source\repos\Program5 - Nullable Operators\Program5 - Nullable Operators\obj\Debug\netcoreapp3.1\Program5 - Nullable Operators.pdb
+C:\Users\Geralt\source\repos\Program5 - Nullable Operators\Program5 - Nullable Operators\obj\Debug\netcoreapp3.1\Program5 - Nullable Operators.genruntimeconfig.cache

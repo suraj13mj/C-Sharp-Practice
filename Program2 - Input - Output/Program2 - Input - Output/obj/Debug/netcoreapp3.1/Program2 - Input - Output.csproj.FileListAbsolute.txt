@@ -1,0 +1,12 @@
+C:\Users\Geralt\source\repos\Program2 - Input - Output\Program2 - Input - Output\bin\Debug\netcoreapp3.1\Program2 - Input - Output.exe
+C:\Users\Geralt\source\repos\Program2 - Input - Output\Program2 - Input - Output\bin\Debug\netcoreapp3.1\Program2 - Input - Output.deps.json
+C:\Users\Geralt\source\repos\Program2 - Input - Output\Program2 - Input - Output\bin\Debug\netcoreapp3.1\Program2 - Input - Output.runtimeconfig.json
+C:\Users\Geralt\source\repos\Program2 - Input - Output\Program2 - Input - Output\bin\Debug\netcoreapp3.1\Program2 - Input - Output.runtimeconfig.dev.json
+C:\Users\Geralt\source\repos\Program2 - Input - Output\Program2 - Input - Output\bin\Debug\netcoreapp3.1\Program2 - Input - Output.dll
+C:\Users\Geralt\source\repos\Program2 - Input - Output\Program2 - Input - Output\bin\Debug\netcoreapp3.1\Program2 - Input - Output.pdb
+C:\Users\Geralt\source\repos\Program2 - Input - Output\Program2 - Input - Output\obj\Debug\netcoreapp3.1\Program2 - Input - Output.AssemblyInfoInputs.cache
+C:\Users\Geralt\source\repos\Program2 - Input - Output\Program2 - Input - Output\obj\Debug\netcoreapp3.1\Program2 - Input - Output.AssemblyInfo.cs
+C:\Users\Geralt\source\repos\Program2 - Input - Output\Program2 - Input - Output\obj\Debug\netcoreapp3.1\Program2 - Input - Output.csproj.CoreCompileInputs.cache
+C:\Users\Geralt\source\repos\Program2 - Input - Output\Program2 - Input - Output\obj\Debug\netcoreapp3.1\Program2 - Input - Output.dll
+C:\Users\Geralt\source\repos\Program2 - Input - Output\Program2 - Input - Output\obj\Debug\netcoreapp3.1\Program2 - Input - Output.pdb
+C:\Users\Geralt\source\repos\Program2 - Input - Output\Program2 - Input - Output\obj\Debug\netcoreapp3.1\Program2 - Input - Output.genruntimeconfig.cache

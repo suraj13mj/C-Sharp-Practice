@@ -1,0 +1,13 @@
+C:\Users\Geralt\source\repos\Program8 - Switch Statement\Program8 - Switch Statement\bin\Debug\netcoreapp3.1\Program8 - Switch Statement.exe
+C:\Users\Geralt\source\repos\Program8 - Switch Statement\Program8 - Switch Statement\bin\Debug\netcoreapp3.1\Program8 - Switch Statement.deps.json
+C:\Users\Geralt\source\repos\Program8 - Switch Statement\Program8 - Switch Statement\bin\Debug\netcoreapp3.1\Program8 - Switch Statement.runtimeconfig.json
+C:\Users\Geralt\source\repos\Program8 - Switch Statement\Program8 - Switch Statement\bin\Debug\netcoreapp3.1\Program8 - Switch Statement.runtimeconfig.dev.json
+C:\Users\Geralt\source\repos\Program8 - Switch Statement\Program8 - Switch Statement\bin\Debug\netcoreapp3.1\Program8 - Switch Statement.dll
+C:\Users\Geralt\source\repos\Program8 - Switch Statement\Program8 - Switch Statement\bin\Debug\netcoreapp3.1\Program8 - Switch Statement.pdb
+C:\Users\Geralt\source\repos\Program8 - Switch Statement\Program8 - Switch Statement\obj\Debug\netcoreapp3.1\Program8 - Switch Statement.csprojAssemblyReference.cache
+C:\Users\Geralt\source\repos\Program8 - Switch Statement\Program8 - Switch Statement\obj\Debug\netcoreapp3.1\Program8 - Switch Statement.AssemblyInfoInputs.cache
+C:\Users\Geralt\source\repos\Program8 - Switch Statement\Program8 - Switch Statement\obj\Debug\netcoreapp3.1\Program8 - Switch Statement.AssemblyInfo.cs
+C:\Users\Geralt\source\repos\Program8 - Switch Statement\Program8 - Switch Statement\obj\Debug\netcoreapp3.1\Program8 - Switch Statement.csproj.CoreCompileInputs.cache
+C:\Users\Geralt\source\repos\Program8 - Switch Statement\Program8 - Switch Statement\obj\Debug\netcoreapp3.1\Program8 - Switch Statement.dll
+C:\Users\Geralt\source\repos\Program8 - Switch Statement\Program8 - Switch Statement\obj\Debug\netcoreapp3.1\Program8 - Switch Statement.pdb
+C:\Users\Geralt\source\repos\Program8 - Switch Statement\Program8 - Switch Statement\obj\Debug\netcoreapp3.1\Program8 - Switch Statement.genruntimeconfig.cache
