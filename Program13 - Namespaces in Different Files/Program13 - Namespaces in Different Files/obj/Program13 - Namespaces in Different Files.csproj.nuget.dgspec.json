@@ -1,0 +1,91 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Geralt\\Desktop\\C\\Program13 - Namespaces in Different Files\\Program13 - Namespaces in Different Files\\Program13 - Namespaces in Different Files.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Geralt\\Desktop\\C\\Program13 - Namespaces in Different Files\\Program13 - Namespaces in Different Files\\Program13 - Namespaces in Different Files.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Geralt\\Desktop\\C\\Program13 - Namespaces in Different Files\\Program13 - Namespaces in Different Files\\Program13 - Namespaces in Different Files.csproj",
+        "projectName": "Program13 - Namespaces in Different Files",
+        "projectPath": "C:\\Users\\Geralt\\Desktop\\C\\Program13 - Namespaces in Different Files\\Program13 - Namespaces in Different Files\\Program13 - Namespaces in Different Files.csproj",
+        "packagesPath": "C:\\Users\\Geralt\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Geralt\\Desktop\\C\\Program13 - Namespaces in Different Files\\Program13 - Namespaces in Different Files\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Geralt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Geralt\\Desktop\\C\\Program13 - Namespaces in Different Files\\Vehicle.Car.cs\\Vehicle.Car.cs.csproj": {
+                "projectPath": "C:\\Users\\Geralt\\Desktop\\C\\Program13 - Namespaces in Different Files\\Vehicle.Car.cs\\Vehicle.Car.cs.csproj"
+              },
+              "C:\\Users\\Geralt\\Desktop\\C\\Program13 - Namespaces in Different Files\\Vehicle.Truck.cs\\Vehicle.Truck.cs.csproj": {
+                "projectPath": "C:\\Users\\Geralt\\Desktop\\C\\Program13 - Namespaces in Different Files\\Vehicle.Truck.cs\\Vehicle.Truck.cs.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Geralt\\Desktop\\C\\Program13 - Namespaces in Different Files\\Vehicle.Car.cs\\Vehicle.Car.cs.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Geralt\\Desktop\\C\\Program13 - Namespaces in Different Files\\Vehicle.Car.cs\\Vehicle.Car.cs.csproj",
+        "projectName": "Vehicle.Car.cs",
+        "projectPath": "C:\\Users\\Geralt\\Desktop\\C\\Program13 - Namespaces in Different Files\\Vehicle.Car.cs\\Vehicle.Car.cs.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Geralt\\Desktop\\C\\Program13 - Namespaces in Different Files\\Vehicle.Truck.cs\\Vehicle.Truck.cs.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Geralt\\Desktop\\C\\Program13 - Namespaces in Different Files\\Vehicle.Truck.cs\\Vehicle.Truck.cs.csproj",
+        "projectName": "Vehicle.Truck.cs",
+        "projectPath": "C:\\Users\\Geralt\\Desktop\\C\\Program13 - Namespaces in Different Files\\Vehicle.Truck.cs\\Vehicle.Truck.cs.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

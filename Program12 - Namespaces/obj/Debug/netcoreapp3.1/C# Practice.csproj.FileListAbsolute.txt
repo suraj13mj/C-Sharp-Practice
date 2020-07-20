@@ -1,0 +1,13 @@
+C:\Users\Geralt\Desktop\C# Practice\Program12 - Namespaces\obj\Debug\netcoreapp3.1\C# Practice.csprojAssemblyReference.cache
+C:\Users\Geralt\Desktop\C# Practice\Program12 - Namespaces\obj\Debug\netcoreapp3.1\C# Practice.AssemblyInfoInputs.cache
+C:\Users\Geralt\Desktop\C# Practice\Program12 - Namespaces\obj\Debug\netcoreapp3.1\C# Practice.AssemblyInfo.cs
+C:\Users\Geralt\Desktop\C# Practice\Program12 - Namespaces\obj\Debug\netcoreapp3.1\C# Practice.csproj.CoreCompileInputs.cache
+C:\Users\Geralt\Desktop\C# Practice\Program12 - Namespaces\bin\Debug\netcoreapp3.1\C# Practice.exe
+C:\Users\Geralt\Desktop\C# Practice\Program12 - Namespaces\bin\Debug\netcoreapp3.1\C# Practice.deps.json
+C:\Users\Geralt\Desktop\C# Practice\Program12 - Namespaces\bin\Debug\netcoreapp3.1\C# Practice.runtimeconfig.json
+C:\Users\Geralt\Desktop\C# Practice\Program12 - Namespaces\bin\Debug\netcoreapp3.1\C# Practice.runtimeconfig.dev.json
+C:\Users\Geralt\Desktop\C# Practice\Program12 - Namespaces\bin\Debug\netcoreapp3.1\C# Practice.dll
+C:\Users\Geralt\Desktop\C# Practice\Program12 - Namespaces\bin\Debug\netcoreapp3.1\C# Practice.pdb
+C:\Users\Geralt\Desktop\C# Practice\Program12 - Namespaces\obj\Debug\netcoreapp3.1\C# Practice.dll
+C:\Users\Geralt\Desktop\C# Practice\Program12 - Namespaces\obj\Debug\netcoreapp3.1\C# Practice.pdb
+C:\Users\Geralt\Desktop\C# Practice\Program12 - Namespaces\obj\Debug\netcoreapp3.1\C# Practice.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Geralt\Desktop\C# Practice\Program11 - Method Parameters\bin\Debug\netcoreapp3.1\Program11 - Method Parameters.exe
+C:\Users\Geralt\Desktop\C# Practice\Program11 - Method Parameters\bin\Debug\netcoreapp3.1\Program11 - Method Parameters.deps.json
+C:\Users\Geralt\Desktop\C# Practice\Program11 - Method Parameters\bin\Debug\netcoreapp3.1\Program11 - Method Parameters.runtimeconfig.json
+C:\Users\Geralt\Desktop\C# Practice\Program11 - Method Parameters\bin\Debug\netcoreapp3.1\Program11 - Method Parameters.runtimeconfig.dev.json
+C:\Users\Geralt\Desktop\C# Practice\Program11 - Method Parameters\bin\Debug\netcoreapp3.1\Program11 - Method Parameters.dll
+C:\Users\Geralt\Desktop\C# Practice\Program11 - Method Parameters\bin\Debug\netcoreapp3.1\Program11 - Method Parameters.pdb
+C:\Users\Geralt\Desktop\C# Practice\Program11 - Method Parameters\obj\Debug\netcoreapp3.1\Program11 - Method Parameters.csprojAssemblyReference.cache
+C:\Users\Geralt\Desktop\C# Practice\Program11 - Method Parameters\obj\Debug\netcoreapp3.1\Program11 - Method Parameters.AssemblyInfoInputs.cache
+C:\Users\Geralt\Desktop\C# Practice\Program11 - Method Parameters\obj\Debug\netcoreapp3.1\Program11 - Method Parameters.AssemblyInfo.cs
+C:\Users\Geralt\Desktop\C# Practice\Program11 - Method Parameters\obj\Debug\netcoreapp3.1\Program11 - Method Parameters.csproj.CoreCompileInputs.cache
+C:\Users\Geralt\Desktop\C# Practice\Program11 - Method Parameters\obj\Debug\netcoreapp3.1\Program11 - Method Parameters.dll
+C:\Users\Geralt\Desktop\C# Practice\Program11 - Method Parameters\obj\Debug\netcoreapp3.1\Program11 - Method Parameters.pdb
+C:\Users\Geralt\Desktop\C# Practice\Program11 - Method Parameters\obj\Debug\netcoreapp3.1\Program11 - Method Parameters.genruntimeconfig.cache

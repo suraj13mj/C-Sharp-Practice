@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Program11 - Method Parameters/1.0.0": {
+        "runtime": {
+          "Program11 - Method Parameters.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Program11 - Method Parameters/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -16,7 +16,7 @@ class Datatype_String
         string path = "C:\\Documents\\Images\\tiger.png";
         string new_path = @"C:\Documents\Images\tiger.png";
         string exp = @"100\n * 100\t"; 
-        Console.WriteLine("{0}\n{1}\n{2}", path, new_path,exp);
+        Console.WriteLine("{0}\n{1}\n{2}", path, new_path, exp);
 
     }
 }

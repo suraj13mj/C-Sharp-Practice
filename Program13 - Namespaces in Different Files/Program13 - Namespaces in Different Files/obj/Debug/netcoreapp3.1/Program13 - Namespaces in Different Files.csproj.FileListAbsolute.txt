@@ -1,0 +1,18 @@
+C:\Users\Geralt\Desktop\C\Program13 - Namespaces in Different Files\Program13 - Namespaces in Different Files\bin\Debug\netcoreapp3.1\Program13 - Namespaces in Different Files.exe
+C:\Users\Geralt\Desktop\C\Program13 - Namespaces in Different Files\Program13 - Namespaces in Different Files\bin\Debug\netcoreapp3.1\Program13 - Namespaces in Different Files.deps.json
+C:\Users\Geralt\Desktop\C\Program13 - Namespaces in Different Files\Program13 - Namespaces in Different Files\bin\Debug\netcoreapp3.1\Program13 - Namespaces in Different Files.runtimeconfig.json
+C:\Users\Geralt\Desktop\C\Program13 - Namespaces in Different Files\Program13 - Namespaces in Different Files\bin\Debug\netcoreapp3.1\Program13 - Namespaces in Different Files.runtimeconfig.dev.json
+C:\Users\Geralt\Desktop\C\Program13 - Namespaces in Different Files\Program13 - Namespaces in Different Files\bin\Debug\netcoreapp3.1\Program13 - Namespaces in Different Files.dll
+C:\Users\Geralt\Desktop\C\Program13 - Namespaces in Different Files\Program13 - Namespaces in Different Files\bin\Debug\netcoreapp3.1\Program13 - Namespaces in Different Files.pdb
+C:\Users\Geralt\Desktop\C\Program13 - Namespaces in Different Files\Program13 - Namespaces in Different Files\bin\Debug\netcoreapp3.1\Vehicle.Car.cs.dll
+C:\Users\Geralt\Desktop\C\Program13 - Namespaces in Different Files\Program13 - Namespaces in Different Files\bin\Debug\netcoreapp3.1\Vehicle.Truck.cs.dll
+C:\Users\Geralt\Desktop\C\Program13 - Namespaces in Different Files\Program13 - Namespaces in Different Files\bin\Debug\netcoreapp3.1\Vehicle.Car.cs.pdb
+C:\Users\Geralt\Desktop\C\Program13 - Namespaces in Different Files\Program13 - Namespaces in Different Files\bin\Debug\netcoreapp3.1\Vehicle.Truck.cs.pdb
+C:\Users\Geralt\Desktop\C\Program13 - Namespaces in Different Files\Program13 - Namespaces in Different Files\obj\Debug\netcoreapp3.1\Program13 - Namespaces in Different Files.csprojAssemblyReference.cache
+C:\Users\Geralt\Desktop\C\Program13 - Namespaces in Different Files\Program13 - Namespaces in Different Files\obj\Debug\netcoreapp3.1\Program13 - Namespaces in Different Files.AssemblyInfoInputs.cache
+C:\Users\Geralt\Desktop\C\Program13 - Namespaces in Different Files\Program13 - Namespaces in Different Files\obj\Debug\netcoreapp3.1\Program13 - Namespaces in Different Files.AssemblyInfo.cs
+C:\Users\Geralt\Desktop\C\Program13 - Namespaces in Different Files\Program13 - Namespaces in Different Files\obj\Debug\netcoreapp3.1\Program13 - Namespaces in Different Files.csproj.CoreCompileInputs.cache
+C:\Users\Geralt\Desktop\C\Program13 - Namespaces in Different Files\Program13 - Namespaces in Different Files\obj\Debug\netcoreapp3.1\Program13 - Namespaces in Different Files.csproj.CopyComplete
+C:\Users\Geralt\Desktop\C\Program13 - Namespaces in Different Files\Program13 - Namespaces in Different Files\obj\Debug\netcoreapp3.1\Program13 - Namespaces in Different Files.dll
+C:\Users\Geralt\Desktop\C\Program13 - Namespaces in Different Files\Program13 - Namespaces in Different Files\obj\Debug\netcoreapp3.1\Program13 - Namespaces in Different Files.pdb
+C:\Users\Geralt\Desktop\C\Program13 - Namespaces in Different Files\Program13 - Namespaces in Different Files\obj\Debug\netcoreapp3.1\Program13 - Namespaces in Different Files.genruntimeconfig.cache

@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Program13 - Namespaces in Different Files/1.0.0": {
+        "dependencies": {
+          "Vehicle.Car.cs": "1.0.0",
+          "Vehicle.Truck.cs": "1.0.0"
+        },
+        "runtime": {
+          "Program13 - Namespaces in Different Files.dll": {}
+        }
+      },
+      "Vehicle.Car.cs/1.0.0": {
+        "runtime": {
+          "Vehicle.Car.cs.dll": {}
+        }
+      },
+      "Vehicle.Truck.cs/1.0.0": {
+        "runtime": {
+          "Vehicle.Truck.cs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Program13 - Namespaces in Different Files/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Vehicle.Car.cs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Vehicle.Truck.cs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

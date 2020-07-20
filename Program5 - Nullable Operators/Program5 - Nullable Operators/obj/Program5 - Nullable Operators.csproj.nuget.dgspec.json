@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Geralt\\source\\repos\\Program5 - Nullable Operators\\Program5 - Nullable Operators\\Program5 - Nullable Operators.csproj": {}
+    "C:\\Users\\Geralt\\Desktop\\C# Practice\\Program5 - Nullable Operators\\Program5 - Nullable Operators\\Program5 - Nullable Operators.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Geralt\\source\\repos\\Program5 - Nullable Operators\\Program5 - Nullable Operators\\Program5 - Nullable Operators.csproj": {
+    "C:\\Users\\Geralt\\Desktop\\C# Practice\\Program5 - Nullable Operators\\Program5 - Nullable Operators\\Program5 - Nullable Operators.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Geralt\\source\\repos\\Program5 - Nullable Operators\\Program5 - Nullable Operators\\Program5 - Nullable Operators.csproj",
+        "projectUniqueName": "C:\\Users\\Geralt\\Desktop\\C# Practice\\Program5 - Nullable Operators\\Program5 - Nullable Operators\\Program5 - Nullable Operators.csproj",
         "projectName": "Program5 - Nullable Operators",
-        "projectPath": "C:\\Users\\Geralt\\source\\repos\\Program5 - Nullable Operators\\Program5 - Nullable Operators\\Program5 - Nullable Operators.csproj",
+        "projectPath": "C:\\Users\\Geralt\\Desktop\\C# Practice\\Program5 - Nullable Operators\\Program5 - Nullable Operators\\Program5 - Nullable Operators.csproj",
         "packagesPath": "C:\\Users\\Geralt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Geralt\\source\\repos\\Program5 - Nullable Operators\\Program5 - Nullable Operators\\obj\\",
+        "outputPath": "C:\\Users\\Geralt\\Desktop\\C# Practice\\Program5 - Nullable Operators\\Program5 - Nullable Operators\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

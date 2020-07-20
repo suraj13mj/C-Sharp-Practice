@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZCO5FWL+gvZyU0ZlIXFxrCMoubKuxXPyZPXs4yvNuIejEyvHeAvNXgezAeZMKdtZ3cO0E2gFqUhT3pRDUezxdQ==",
+  "dgSpecHash": "ngh3rEncZGhJz35i9IEYaRosn8PqnvqBIv8huSDXChQeITDT7eJklSWEohRhM5FqqwlHn2NJpJ+l98ulKDf4iQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Geralt\\source\\repos\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+  "projectFilePath": "C:\\Users\\Geralt\\Desktop\\C# Practice\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

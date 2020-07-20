@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Geralt\\Desktop\\C#\\Program1 - Introduction\\Program1 - Introduction\\Program1 - Introduction.csproj",
+      "projectUniqueName": "C:\\Users\\Geralt\\Desktop\\C# Practice\\Program1 - Introduction\\Program1 - Introduction\\Program1 - Introduction.csproj",
       "projectName": "Program1 - Introduction",
-      "projectPath": "C:\\Users\\Geralt\\Desktop\\C#\\Program1 - Introduction\\Program1 - Introduction\\Program1 - Introduction.csproj",
+      "projectPath": "C:\\Users\\Geralt\\Desktop\\C# Practice\\Program1 - Introduction\\Program1 - Introduction\\Program1 - Introduction.csproj",
       "packagesPath": "C:\\Users\\Geralt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Geralt\\Desktop\\C#\\Program1 - Introduction\\Program1 - Introduction\\obj\\",
+      "outputPath": "C:\\Users\\Geralt\\Desktop\\C# Practice\\Program1 - Introduction\\Program1 - Introduction\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

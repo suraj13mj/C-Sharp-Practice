@@ -1,0 +1,13 @@
+C:\Users\Geralt\Desktop\C# Practice\Program10 - Methods\bin\Debug\netcoreapp3.1\Program10 - Methods.exe
+C:\Users\Geralt\Desktop\C# Practice\Program10 - Methods\bin\Debug\netcoreapp3.1\Program10 - Methods.deps.json
+C:\Users\Geralt\Desktop\C# Practice\Program10 - Methods\bin\Debug\netcoreapp3.1\Program10 - Methods.runtimeconfig.json
+C:\Users\Geralt\Desktop\C# Practice\Program10 - Methods\bin\Debug\netcoreapp3.1\Program10 - Methods.runtimeconfig.dev.json
+C:\Users\Geralt\Desktop\C# Practice\Program10 - Methods\bin\Debug\netcoreapp3.1\Program10 - Methods.dll
+C:\Users\Geralt\Desktop\C# Practice\Program10 - Methods\bin\Debug\netcoreapp3.1\Program10 - Methods.pdb
+C:\Users\Geralt\Desktop\C# Practice\Program10 - Methods\obj\Debug\netcoreapp3.1\Program10 - Methods.csprojAssemblyReference.cache
+C:\Users\Geralt\Desktop\C# Practice\Program10 - Methods\obj\Debug\netcoreapp3.1\Program10 - Methods.AssemblyInfoInputs.cache
+C:\Users\Geralt\Desktop\C# Practice\Program10 - Methods\obj\Debug\netcoreapp3.1\Program10 - Methods.AssemblyInfo.cs
+C:\Users\Geralt\Desktop\C# Practice\Program10 - Methods\obj\Debug\netcoreapp3.1\Program10 - Methods.csproj.CoreCompileInputs.cache
+C:\Users\Geralt\Desktop\C# Practice\Program10 - Methods\obj\Debug\netcoreapp3.1\Program10 - Methods.dll
+C:\Users\Geralt\Desktop\C# Practice\Program10 - Methods\obj\Debug\netcoreapp3.1\Program10 - Methods.pdb
+C:\Users\Geralt\Desktop\C# Practice\Program10 - Methods\obj\Debug\netcoreapp3.1\Program10 - Methods.genruntimeconfig.cache

@@ -1,0 +1,6 @@
+C:\Users\Geralt\Desktop\C\Program13 - Namespaces in Different Files\Vehicle.Car.cs\bin\Debug\Vehicle.Car.cs.dll
+C:\Users\Geralt\Desktop\C\Program13 - Namespaces in Different Files\Vehicle.Car.cs\bin\Debug\Vehicle.Car.cs.pdb
+C:\Users\Geralt\Desktop\C\Program13 - Namespaces in Different Files\Vehicle.Car.cs\obj\Debug\Vehicle.Car.cs.csprojAssemblyReference.cache
+C:\Users\Geralt\Desktop\C\Program13 - Namespaces in Different Files\Vehicle.Car.cs\obj\Debug\Vehicle.Car.cs.csproj.CoreCompileInputs.cache
+C:\Users\Geralt\Desktop\C\Program13 - Namespaces in Different Files\Vehicle.Car.cs\obj\Debug\Vehicle.Car.cs.dll
+C:\Users\Geralt\Desktop\C\Program13 - Namespaces in Different Files\Vehicle.Car.cs\obj\Debug\Vehicle.Car.cs.pdb
