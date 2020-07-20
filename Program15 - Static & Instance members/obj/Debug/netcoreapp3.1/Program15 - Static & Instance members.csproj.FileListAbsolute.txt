@@ -1,0 +1,13 @@
+C:\Users\Geralt\Desktop\C# Practice\Program15 - Static & Instance members\obj\Debug\netcoreapp3.1\Program15 - Static & Instance members.csprojAssemblyReference.cache
+C:\Users\Geralt\Desktop\C# Practice\Program15 - Static & Instance members\obj\Debug\netcoreapp3.1\Program15 - Static & Instance members.AssemblyInfoInputs.cache
+C:\Users\Geralt\Desktop\C# Practice\Program15 - Static & Instance members\obj\Debug\netcoreapp3.1\Program15 - Static & Instance members.AssemblyInfo.cs
+C:\Users\Geralt\Desktop\C# Practice\Program15 - Static & Instance members\obj\Debug\netcoreapp3.1\Program15 - Static & Instance members.csproj.CoreCompileInputs.cache
+C:\Users\Geralt\Desktop\C# Practice\Program15 - Static & Instance members\bin\Debug\netcoreapp3.1\Program15 - Static & Instance members.exe
+C:\Users\Geralt\Desktop\C# Practice\Program15 - Static & Instance members\bin\Debug\netcoreapp3.1\Program15 - Static & Instance members.deps.json
+C:\Users\Geralt\Desktop\C# Practice\Program15 - Static & Instance members\bin\Debug\netcoreapp3.1\Program15 - Static & Instance members.runtimeconfig.json
+C:\Users\Geralt\Desktop\C# Practice\Program15 - Static & Instance members\bin\Debug\netcoreapp3.1\Program15 - Static & Instance members.runtimeconfig.dev.json
+C:\Users\Geralt\Desktop\C# Practice\Program15 - Static & Instance members\bin\Debug\netcoreapp3.1\Program15 - Static & Instance members.dll
+C:\Users\Geralt\Desktop\C# Practice\Program15 - Static & Instance members\bin\Debug\netcoreapp3.1\Program15 - Static & Instance members.pdb
+C:\Users\Geralt\Desktop\C# Practice\Program15 - Static & Instance members\obj\Debug\netcoreapp3.1\Program15 - Static & Instance members.dll
+C:\Users\Geralt\Desktop\C# Practice\Program15 - Static & Instance members\obj\Debug\netcoreapp3.1\Program15 - Static & Instance members.pdb
+C:\Users\Geralt\Desktop\C# Practice\Program15 - Static & Instance members\obj\Debug\netcoreapp3.1\Program15 - Static & Instance members.genruntimeconfig.cache

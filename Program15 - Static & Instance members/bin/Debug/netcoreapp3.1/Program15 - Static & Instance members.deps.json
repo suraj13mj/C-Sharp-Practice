@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Program15 - Static & Instance members/1.0.0": {
+        "runtime": {
+          "Program15 - Static & Instance members.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Program15 - Static & Instance members/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

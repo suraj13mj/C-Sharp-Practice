@@ -1,0 +1,13 @@
+C:\Users\Geralt\Desktop\C# Practice\Program14 - Classes\obj\Debug\netcoreapp3.1\Program14 - Classes.csprojAssemblyReference.cache
+C:\Users\Geralt\Desktop\C# Practice\Program14 - Classes\obj\Debug\netcoreapp3.1\Program14 - Classes.AssemblyInfoInputs.cache
+C:\Users\Geralt\Desktop\C# Practice\Program14 - Classes\obj\Debug\netcoreapp3.1\Program14 - Classes.AssemblyInfo.cs
+C:\Users\Geralt\Desktop\C# Practice\Program14 - Classes\obj\Debug\netcoreapp3.1\Program14 - Classes.csproj.CoreCompileInputs.cache
+C:\Users\Geralt\Desktop\C# Practice\Program14 - Classes\bin\Debug\netcoreapp3.1\Program14 - Classes.exe
+C:\Users\Geralt\Desktop\C# Practice\Program14 - Classes\bin\Debug\netcoreapp3.1\Program14 - Classes.deps.json
+C:\Users\Geralt\Desktop\C# Practice\Program14 - Classes\bin\Debug\netcoreapp3.1\Program14 - Classes.runtimeconfig.json
+C:\Users\Geralt\Desktop\C# Practice\Program14 - Classes\bin\Debug\netcoreapp3.1\Program14 - Classes.runtimeconfig.dev.json
+C:\Users\Geralt\Desktop\C# Practice\Program14 - Classes\bin\Debug\netcoreapp3.1\Program14 - Classes.dll
+C:\Users\Geralt\Desktop\C# Practice\Program14 - Classes\bin\Debug\netcoreapp3.1\Program14 - Classes.pdb
+C:\Users\Geralt\Desktop\C# Practice\Program14 - Classes\obj\Debug\netcoreapp3.1\Program14 - Classes.dll
+C:\Users\Geralt\Desktop\C# Practice\Program14 - Classes\obj\Debug\netcoreapp3.1\Program14 - Classes.pdb
+C:\Users\Geralt\Desktop\C# Practice\Program14 - Classes\obj\Debug\netcoreapp3.1\Program14 - Classes.genruntimeconfig.cache

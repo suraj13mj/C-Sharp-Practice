@@ -11,3 +11,7 @@ class Namespaces
         t_truck.Tata.drive();
     }
 }
+
+
+//Inorder to access the namespaces present in separate folders, we have to add Reference to those project folders from this project.
+//Then we can access it through 'using' keyword
