@@ -1,0 +1,13 @@
+C:\Users\Geralt\Desktop\C# Practice\Program16 - Inheritence\obj\Debug\netcoreapp3.1\Program16 - Inheritence.csprojAssemblyReference.cache
+C:\Users\Geralt\Desktop\C# Practice\Program16 - Inheritence\obj\Debug\netcoreapp3.1\Program16 - Inheritence.AssemblyInfoInputs.cache
+C:\Users\Geralt\Desktop\C# Practice\Program16 - Inheritence\obj\Debug\netcoreapp3.1\Program16 - Inheritence.AssemblyInfo.cs
+C:\Users\Geralt\Desktop\C# Practice\Program16 - Inheritence\obj\Debug\netcoreapp3.1\Program16 - Inheritence.csproj.CoreCompileInputs.cache
+C:\Users\Geralt\Desktop\C# Practice\Program16 - Inheritence\bin\Debug\netcoreapp3.1\Program16 - Inheritence.exe
+C:\Users\Geralt\Desktop\C# Practice\Program16 - Inheritence\bin\Debug\netcoreapp3.1\Program16 - Inheritence.deps.json
+C:\Users\Geralt\Desktop\C# Practice\Program16 - Inheritence\bin\Debug\netcoreapp3.1\Program16 - Inheritence.runtimeconfig.json
+C:\Users\Geralt\Desktop\C# Practice\Program16 - Inheritence\bin\Debug\netcoreapp3.1\Program16 - Inheritence.runtimeconfig.dev.json
+C:\Users\Geralt\Desktop\C# Practice\Program16 - Inheritence\bin\Debug\netcoreapp3.1\Program16 - Inheritence.dll
+C:\Users\Geralt\Desktop\C# Practice\Program16 - Inheritence\bin\Debug\netcoreapp3.1\Program16 - Inheritence.pdb
+C:\Users\Geralt\Desktop\C# Practice\Program16 - Inheritence\obj\Debug\netcoreapp3.1\Program16 - Inheritence.dll
+C:\Users\Geralt\Desktop\C# Practice\Program16 - Inheritence\obj\Debug\netcoreapp3.1\Program16 - Inheritence.pdb
+C:\Users\Geralt\Desktop\C# Practice\Program16 - Inheritence\obj\Debug\netcoreapp3.1\Program16 - Inheritence.genruntimeconfig.cache
