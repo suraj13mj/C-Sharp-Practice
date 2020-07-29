@@ -1,0 +1,13 @@
+C:\Users\Geralt\Desktop\C# Practice\Program17 - Method Hiding\obj\Debug\netcoreapp3.1\Program17 - Method Hiding.csprojAssemblyReference.cache
+C:\Users\Geralt\Desktop\C# Practice\Program17 - Method Hiding\obj\Debug\netcoreapp3.1\Program17 - Method Hiding.AssemblyInfoInputs.cache
+C:\Users\Geralt\Desktop\C# Practice\Program17 - Method Hiding\obj\Debug\netcoreapp3.1\Program17 - Method Hiding.AssemblyInfo.cs
+C:\Users\Geralt\Desktop\C# Practice\Program17 - Method Hiding\obj\Debug\netcoreapp3.1\Program17 - Method Hiding.csproj.CoreCompileInputs.cache
+C:\Users\Geralt\Desktop\C# Practice\Program17 - Method Hiding\bin\Debug\netcoreapp3.1\Program17 - Method Hiding.exe
+C:\Users\Geralt\Desktop\C# Practice\Program17 - Method Hiding\bin\Debug\netcoreapp3.1\Program17 - Method Hiding.deps.json
+C:\Users\Geralt\Desktop\C# Practice\Program17 - Method Hiding\bin\Debug\netcoreapp3.1\Program17 - Method Hiding.runtimeconfig.json
+C:\Users\Geralt\Desktop\C# Practice\Program17 - Method Hiding\bin\Debug\netcoreapp3.1\Program17 - Method Hiding.runtimeconfig.dev.json
+C:\Users\Geralt\Desktop\C# Practice\Program17 - Method Hiding\bin\Debug\netcoreapp3.1\Program17 - Method Hiding.dll
+C:\Users\Geralt\Desktop\C# Practice\Program17 - Method Hiding\bin\Debug\netcoreapp3.1\Program17 - Method Hiding.pdb
+C:\Users\Geralt\Desktop\C# Practice\Program17 - Method Hiding\obj\Debug\netcoreapp3.1\Program17 - Method Hiding.dll
+C:\Users\Geralt\Desktop\C# Practice\Program17 - Method Hiding\obj\Debug\netcoreapp3.1\Program17 - Method Hiding.pdb
+C:\Users\Geralt\Desktop\C# Practice\Program17 - Method Hiding\obj\Debug\netcoreapp3.1\Program17 - Method Hiding.genruntimeconfig.cache

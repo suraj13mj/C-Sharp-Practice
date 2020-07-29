@@ -1,0 +1,13 @@
+C:\Users\Geralt\Desktop\C# Practice\Program18 - Runtime Polymorphism\obj\Debug\netcoreapp3.1\Program18 - Runtime Polymorphism.csprojAssemblyReference.cache
+C:\Users\Geralt\Desktop\C# Practice\Program18 - Runtime Polymorphism\obj\Debug\netcoreapp3.1\Program18 - Runtime Polymorphism.AssemblyInfoInputs.cache
+C:\Users\Geralt\Desktop\C# Practice\Program18 - Runtime Polymorphism\obj\Debug\netcoreapp3.1\Program18 - Runtime Polymorphism.AssemblyInfo.cs
+C:\Users\Geralt\Desktop\C# Practice\Program18 - Runtime Polymorphism\obj\Debug\netcoreapp3.1\Program18 - Runtime Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\Geralt\Desktop\C# Practice\Program18 - Runtime Polymorphism\bin\Debug\netcoreapp3.1\Program18 - Runtime Polymorphism.exe
+C:\Users\Geralt\Desktop\C# Practice\Program18 - Runtime Polymorphism\bin\Debug\netcoreapp3.1\Program18 - Runtime Polymorphism.deps.json
+C:\Users\Geralt\Desktop\C# Practice\Program18 - Runtime Polymorphism\bin\Debug\netcoreapp3.1\Program18 - Runtime Polymorphism.runtimeconfig.json
+C:\Users\Geralt\Desktop\C# Practice\Program18 - Runtime Polymorphism\bin\Debug\netcoreapp3.1\Program18 - Runtime Polymorphism.runtimeconfig.dev.json
+C:\Users\Geralt\Desktop\C# Practice\Program18 - Runtime Polymorphism\bin\Debug\netcoreapp3.1\Program18 - Runtime Polymorphism.dll
+C:\Users\Geralt\Desktop\C# Practice\Program18 - Runtime Polymorphism\bin\Debug\netcoreapp3.1\Program18 - Runtime Polymorphism.pdb
+C:\Users\Geralt\Desktop\C# Practice\Program18 - Runtime Polymorphism\obj\Debug\netcoreapp3.1\Program18 - Runtime Polymorphism.dll
+C:\Users\Geralt\Desktop\C# Practice\Program18 - Runtime Polymorphism\obj\Debug\netcoreapp3.1\Program18 - Runtime Polymorphism.pdb
+C:\Users\Geralt\Desktop\C# Practice\Program18 - Runtime Polymorphism\obj\Debug\netcoreapp3.1\Program18 - Runtime Polymorphism.genruntimeconfig.cache

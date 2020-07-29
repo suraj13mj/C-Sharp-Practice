@@ -1,0 +1,13 @@
+C:\Users\Geralt\Desktop\C# Practice\Program20 - Properties\obj\Debug\netcoreapp3.1\Program20 - Properties.csprojAssemblyReference.cache
+C:\Users\Geralt\Desktop\C# Practice\Program20 - Properties\obj\Debug\netcoreapp3.1\Program20 - Properties.AssemblyInfoInputs.cache
+C:\Users\Geralt\Desktop\C# Practice\Program20 - Properties\obj\Debug\netcoreapp3.1\Program20 - Properties.AssemblyInfo.cs
+C:\Users\Geralt\Desktop\C# Practice\Program20 - Properties\obj\Debug\netcoreapp3.1\Program20 - Properties.csproj.CoreCompileInputs.cache
+C:\Users\Geralt\Desktop\C# Practice\Program20 - Properties\bin\Debug\netcoreapp3.1\Program20 - Properties.exe
+C:\Users\Geralt\Desktop\C# Practice\Program20 - Properties\bin\Debug\netcoreapp3.1\Program20 - Properties.deps.json
+C:\Users\Geralt\Desktop\C# Practice\Program20 - Properties\bin\Debug\netcoreapp3.1\Program20 - Properties.runtimeconfig.json
+C:\Users\Geralt\Desktop\C# Practice\Program20 - Properties\bin\Debug\netcoreapp3.1\Program20 - Properties.runtimeconfig.dev.json
+C:\Users\Geralt\Desktop\C# Practice\Program20 - Properties\bin\Debug\netcoreapp3.1\Program20 - Properties.dll
+C:\Users\Geralt\Desktop\C# Practice\Program20 - Properties\bin\Debug\netcoreapp3.1\Program20 - Properties.pdb
+C:\Users\Geralt\Desktop\C# Practice\Program20 - Properties\obj\Debug\netcoreapp3.1\Program20 - Properties.dll
+C:\Users\Geralt\Desktop\C# Practice\Program20 - Properties\obj\Debug\netcoreapp3.1\Program20 - Properties.pdb
+C:\Users\Geralt\Desktop\C# Practice\Program20 - Properties\obj\Debug\netcoreapp3.1\Program20 - Properties.genruntimeconfig.cache
